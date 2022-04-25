@@ -1,1 +1,1 @@
-# Hood-Moded
+# This script is for Hood-Modded
